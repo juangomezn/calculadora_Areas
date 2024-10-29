@@ -29,3 +29,11 @@ def area_Triangulo():
     Lado_2 = int(input())
     calculo = (Lado_1*Lado_2)/2
     print(f"El area del triangulo es, {calculo}")
+
+def area_Rombo():
+    print("Ingrese la medida de la diagonal mayor de la figura")
+    Lado_1 = int(input())
+    print("Ingrese la medida de la diagonal menor de la figura")
+    Lado_2 = int(input())
+    calculo = (Lado_1*Lado_2)/2
+    print(f"El area del rombo es, {calculo}")

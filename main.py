@@ -13,3 +13,6 @@ while True:
 
     if opc == "3":
         area_Triangulo()
+
+    if opc == "4":
+        area_Rombo()
