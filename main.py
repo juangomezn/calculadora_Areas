@@ -10,3 +10,6 @@ while True:
 
     if opc == "2":
         area_Circulo()
+
+    if opc == "3":
+        area_Triangulo()

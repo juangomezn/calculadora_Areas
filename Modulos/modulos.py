@@ -21,3 +21,11 @@ def area_Circulo():
     calculo = Lado_1**2
     calculo = calculo * 3.14
     print(f"El resultado del area es, {calculo}")
+
+def area_Triangulo():
+    print("Ingrese la medida de la base del triangulo")
+    Lado_1 = int(input())
+    print("Ingrese la medida de la altura del triangulo")
+    Lado_2 = int(input())
+    calculo = (Lado_1*Lado_2)/2
+    print(f"El area del triangulo es, {calculo}")
