@@ -7,3 +7,6 @@ while True:
 
     if opc == "1":
         area_Rectangulo()
+
+    if opc == "2":
+        area_Circulo()
