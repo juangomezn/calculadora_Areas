@@ -9,7 +9,6 @@ def menu():
 
 Lado_1 = 0
 Lado_2 = 0
-validacion = False
 
 def area_Rectangulo():
     print("Ingrese la medida del largo: ")
